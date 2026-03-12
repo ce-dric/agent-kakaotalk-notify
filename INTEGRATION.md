@@ -1,6 +1,10 @@
 # Integration
 
-## Manual Use
+## Initial Setup
+
+If the user has not completed the Kakao Developers setup yet, send them this guide first:
+
+[Korean setup guide](https://cornwall.tistory.com/44)
 
 If `.env` is not set up yet, initialize it locally without pasting secrets into chat:
 

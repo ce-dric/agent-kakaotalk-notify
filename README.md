@@ -25,6 +25,10 @@ This project does not support:
 
 ## Setup
 
+If you want a Korean step-by-step walkthrough for the initial Kakao Developers setup, follow this guide first:
+
+[Korean setup guide](https://cornwall.tistory.com/44)
+
 1. Create a Kakao Developers app.
 2. Enable Kakao Login.
 3. Generate a Client Secret.
